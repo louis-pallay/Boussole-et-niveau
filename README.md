@@ -33,5 +33,6 @@ Le programme intègre une logique de traitement pour assurer la précision des i
 ---
 
 ## 👥 Membres de l'équipe
-* **[Ton Prénom] [Ton Nom]**
-* **Alex Mmargherio**
+* **Louis PALLAY**
+* **Alex Margherio**
+* **Nacim Djemel**
